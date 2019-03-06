@@ -8,6 +8,7 @@ jupyter = "*"
 numpy = "*"
 matplotlib = "*"
 sklearn = "*"
+pandas = "*"
 
 [dev-packages]
 pylint = "*"
